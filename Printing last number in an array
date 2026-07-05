@@ -1,0 +1,6 @@
+#input is
+#3
+#10 20 30 (read arrays)
+n=int(input())
+arr=list(map(int,input().split())
+print(arr[-1])
